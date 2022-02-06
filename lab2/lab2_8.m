@@ -14,7 +14,7 @@ X=lineq(A,b);
 disp("c)")
 disp(X);
 A=[1;2];
-b=[2.9;3.9];
+b=[2.1;3.9];
 X=lineq(A,b);
 disp("d)")
 disp(X);
